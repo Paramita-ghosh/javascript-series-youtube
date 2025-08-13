@@ -1,0 +1,9 @@
+/*
+   DOM of this html file :
+   
+   window -> document -> HTML -> head -> 1)title (text node)
+                                         2)meta (attribute)
+                              -> body -> div (attribute # class or id) -> 1)h1 -> 1) attribute
+                                                                                  2) text node
+                                                                          2)p -> text node  
+*/
